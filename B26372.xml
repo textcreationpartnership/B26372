@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An heroical panegyrick humbly dedicated to the Reverend Father in God, Gilbert, Lord Bishop of Salisbury / by Mrs. A.M.</title>
+            <author>A. M., Mrs.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26372</idno><idno type="EEBO-CITATION">10619396</idno>
+  <idno type="VID">204668</idno>
+  <idno type="EEBO-PROQUEST">2240892728</idno>
+  
+            <idno type="STC">Wing M2</idno>
+            <idno type="OCLC">10619396</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26372)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204668)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1387:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An heroical panegyrick humbly dedicated to the Reverend Father in God, Gilbert, Lord Bishop of Salisbury / by Mrs. A.M.</title>
+                  <author>A. M., Mrs.</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Burnet, Gilbert, 1643-1715.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204668:1"/>
+            <pb facs="tcp:204668:1"/>
+            <p>An HEROICAL PANEGYRICK, Humbly Dedicated to the <hi>Reverend Father in God,</hi> GILBERT, Lord Bishop of Salisbury.</p>
+            <p>By Mrs. <hi>A. M.</hi>
+            </p>
+            <figure>
+               <q xml:lang="ita">IL VOSTRO <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ALIGVA<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>E NO<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> GIOVA NULL<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Black Bull</hi> in the <hi>Old-Bailey.</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:204668:2"/>
+            <pb n="1" facs="tcp:204668:2"/>
+            <head>An Historical Panegyrick, <hi>&amp;c.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>HAIL</hi> Reverend Prelate both of Church and State,</l>
+               <l>Who bravely hast out-brav'd the Shocks of Fate;</l>
+               <l>
+                  <hi>Rome,</hi> and her Seniors of the greatest Fame,</l>
+               <l>Dread your Applause, and Tremble at your Name:</l>
+               <lg>
+                  <l>And yet they Court you with a Curling Brow,</l>
+                  <l>Amaz'd they stand, and Wonder what you do</l>
+                  <l>To Awe the World, and Charm each Monarch too;</l>
+               </lg>
+               <l>With <hi>Sheba</hi>'s Queen they flock to hear and see</l>
+               <l>The Maxims of Divine Humanitie;</l>
+               <l>Your Fame's Admir'd, and your Works Ador'd,</l>
+               <l>By every Senate Worship'd as a God;</l>
+               <l>So sweet, so soft's your Stile, Authentick too,</l>
+               <l>
+                  <hi>Plato</hi> himself, is at a loss in you;</l>
+               <l>Who dar'st pretend to Write your Character?</l>
+               <l>Not <hi>Dryden,</hi> no; nor all the Muses dare:</l>
+               <l>Your Merits are too Great for <hi>Cowley</hi>'s Pen,</l>
+               <l>And what I aim at, wants a Nobler Strain.</l>
+               <l>With humble Patience you the Stroke indur'd,</l>
+               <l>Which Silence, and your Death at once procur'd,</l>
+               <l>Had not propitious Stars prevented all,</l>
+               <l>And gave your Doom, a Doomer's fatal Fall;</l>
+               <lg>
+                  <l>When forc'd by Malice, from your Country Fled,</l>
+                  <l>And doubly Banisht, without Fear, or Dread,</l>
+                  <l>You—</l>
+                  <l>Like a Brave Hero smil'd the occasion Dead;</l>
+               </lg>
+               <l>Your Wisdom manag'd all, yet unconcern'd</l>
+               <l>You mov'd, as if you never had discern'd.</l>
+               <l>Prophetick <hi>Russel</hi> (Jealous of the Cause,</l>
+               <l>Which almost vanquisht Liberty and Laws)</l>
+               <l>Were he alive he would your Courage greet,</l>
+               <l>And Level Trophyes at Your Lordship's Feet;</l>
+               <l>With Transports wrapt in Joy how wou'd he raise</l>
+               <l>His Ravisht Notes, in Hecatombs of Praise.</l>
+               <l>The greedy <hi>Lyon</hi> missing of his Prey,</l>
+               <l>How wou'd he Tryumph, in your Halcion Day?</l>
+               <l>With <hi>Moses</hi> thou hast Sacred Wonders Wrought,</l>
+               <l>And through the Sea, a Conqu'ring Army brought;</l>
+               <l>At thy Request, the Raging Waves were Calm,</l>
+               <l>
+                  <hi>Neptune</hi> Obey'd, and Chid each Roaring Storm;</l>
+               <l>
+                  <hi>Aeolus</hi> and the <hi>Tritons</hi> of the Deep,</l>
+               <l>Husht into Golden Slumbers, fell asleep.</l>
+               <l>Thus by a Strong and Mighty Potent Hand,</l>
+               <l>You brought 'em safe to this Distressed Land,</l>
+               <pb n="2" facs="tcp:204668:3"/>
+               <l> Whilst Hero's strove who shou'd the Victor be,</l>
+               <l>Nought but the Bible won the Victorie;</l>
+               <lg>
+                  <l>The Sacred Spell, our Souldiers put to flight,</l>
+                  <l>Their Swords Inchanted, silent as the Night</l>
+                  <l>They stole away, and darst not stand to fight;</l>
+               </lg>
+               <l>Your Prayers Ascending to the Imperial Throne</l>
+               <l>Remov'd your Station, and remov'd the Crown:</l>
+               <l>Nor can Time's Annals, ever parallel,</l>
+               <l>What, not long since, to Prince, and People fell;</l>
+               <l>Without Effusion of their purple Gore,</l>
+               <l>They flew like Lightning, and were seen no more:</l>
+               <lg>
+                  <l>The Great, the Small, all in a yielding tone</l>
+                  <l>Pleaded Religion, whilst their Prince was gone</l>
+                  <l>And in a Wretched Minute quite undone.</l>
+               </lg>
+               <l>Thus by the power of your Magick Art</l>
+               <l>(Divinely blest) you made our Army start;</l>
+               <l>With a Resistless Courage, on you led,</l>
+               <l>And rais'd your Drooping Honour from the Dead:</l>
+               <l>Such a Prodigious Wonder, ne'er was heard,</l>
+               <l>Without a Fight, so many Thousands scar'd:</l>
+               <l>But 'twas Decreed the Greatest should be Crost</l>
+               <l>A Pensive King, and his Three Kingdoms lost.</l>
+               <l>There is no lasting Satisfaction here</l>
+               <l>The Best may hope, and yet at last despair.</l>
+               <l>
+                  <hi>So</hi> Wisely the Magnetick Point you've steer'd</l>
+               <l>Your happy Journey, cou'd not much be fear'd;</l>
+               <l>Had <hi>Troy,</hi> had such an Angel in the Front,</l>
+               <l>The Famous City never had been Burnt;</l>
+               <l>Nor <hi>Carthage</hi> lost, nor General <hi>Hannibal</hi>
+               </l>
+               <l>To his disgrace receiv'd a fatal Fall.</l>
+               <l>King <hi>Syphax</hi> too, had boldly fill'd his Throne</l>
+               <l>Thôcirc; a Usurper to the <hi>Curta</hi> Crown.</l>
+               <l>Blest Angels Guarded you to <hi>England</hi>'s Shoar,</l>
+               <l>To Cherish Souls, the Bodies of the Poor;</l>
+               <l>And as you are a Pattern to Mankind,</l>
+               <l>Three Nations Restauration to design:</l>
+               <l>May all your Joyes in perfect Circles move,</l>
+               <l>To suture Ages, and Example prove;</l>
+               <l>May you encrease those Vertues in your Brest</l>
+               <l>Which will Illustrate, and compleat the rest;</l>
+               <l>And may the Mytre flourish on your Head</l>
+               <l>Through Forreign Empires, may your Fame be spread:</l>
+               <l>Immortal Live your Sacred Memory,</l>
+               <l>And doubly blest to all Eternity;</l>
+               <l>Thus far Excels the Glory of the Just,</l>
+               <l>Their Worthy Actions blossom in the Dust.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204668:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
